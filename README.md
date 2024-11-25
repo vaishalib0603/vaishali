@@ -1,4 +1,4 @@
 # vaishali
 Github repo
 <br>
-Author - Vaishali
+Author - Vaishali Bisht
